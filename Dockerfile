@@ -4,7 +4,7 @@ FROM amostsai/android-nodejs
 
 MAINTAINER Amos Tsai <amos.tsai@gmail.com>
 
-ENV ANGULAR_CLI_VERSION 1.2.3
+ENV ANGULAR_CLI_VERSION 1.6
 
 WORKDIR "/app"
 
